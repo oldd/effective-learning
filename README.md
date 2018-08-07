@@ -1,4 +1,4 @@
-# Study Journal
+# Effective Learning
 
 Of all the skills you will need as a developer __effective learning__ is the most important.  There is no library, no framework, no buzzword you can master that will serve you better than strong study and learning habits.  
 
